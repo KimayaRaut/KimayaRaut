@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="450" height="280" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+  <img width="450" height="280" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 </p>
 
 # Hi there, I'm Kimaya Raut! 👋
