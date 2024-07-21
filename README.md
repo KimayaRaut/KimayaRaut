@@ -81,4 +81,3 @@ Thank you for visiting my GitHub profile! 🎉
 </script>
 </body>
 </html>
-```
