@@ -35,6 +35,8 @@ Feel free to explore my repositories and projects. If you have any questions, co
 
 <a href="https://www.linkedin.com/in/kimaya-raut-6b64281b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
+---
+
 ## 🤖 Chat with Bot
 
 <div id="chatbox">
