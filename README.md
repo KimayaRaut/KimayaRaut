@@ -33,6 +33,5 @@ I am continuously exploring new technologies and best practices to stay at the f
 Feel free to explore my repositories and projects. If you have any questions, collaboration ideas, or just want to connect, don’t hesitate to reach out!
 
 <a href="https://www.linkedin.com/in/kimaya-raut-6b64281b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:karaut0403@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 Thank you for visiting my GitHub profile! 🎉
