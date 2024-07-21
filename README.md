@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate backend developer with a solid fo
 
 ## 💻 What I Do
 I specialize in backend development, utilizing technologies like Python, Flask, FastAPI, and MongoDB to craft robust and high-performance solutions. Here’s a glimpse of what I’ve worked on:
-- **AI-Powered Applications**: Contributed to RDX at Ease My AI Pvt Ltd, implementing real-time detection systems and optimizing memory management on diverse platforms.
+- **AI-Powered Applications**: Contributed to RDX at Ease My AI Pvt Ltd, an advanced application leveraging AI for real-time detections using user-owned cameras. 
 - **Web Applications**: Developed several tools, including mental health and personality prediction systems, crop forecasting applications, and paraphrasing tools, focusing on integrating machine learning models and enhancing user experience.
 
 ## 🚀 Current Projects
