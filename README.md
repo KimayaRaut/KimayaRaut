@@ -8,13 +8,13 @@ I specialize in backend development, utilizing technologies like Python, Flask, 
 - **Web Applications**: Developed several tools, including mental health and personality prediction systems, crop forecasting applications, and paraphrasing tools, focusing on integrating machine learning models and enhancing user experience.
 
 ## 🚀 Current Projects
-- **[Mental Health and Personality Prediction](link-to-repo)**: A web app using Flask and machine learning to predict mental health status and personality traits based on user input.
-- **[Crop Forecasting Tool](link-to-repo)**: An application utilizing a RandomForestClassifier to recommend optimal crops based on soil and environmental data.
-- **[Paraphrasing Tool](link-to-repo)**: A tool designed to refine text by correcting spelling and grammar errors for improved readability.
-- **[Online Lecture Scheduling](link-to-repo)**: A system developed with FastAPI and MongoDB for managing course schedules and instructor assignments, ensuring no scheduling conflicts.
+- **[Mental Health and Personality Prediction](https://github.com/KimayaRaut/Mental-Health-and-Personality-Determination-using-Machine-Learning-)**: A web app using Flask and machine learning to predict mental health status and personality traits based on user input.
+- **[Crop Forecasting Tool](https://github.com/KimayaRaut/Crop-Forecasting-Using-Machine-Learning-Random-Forest-Classifier)**: An application utilizing a RandomForestClassifier to recommend optimal crops based on soil and environmental data.
+- **[Paraphrasing Tool](https://github.com/KimayaRaut/Paraphrasing-Tool)**: A tool designed to refine text by correcting spelling and grammar errors for improved readability.
+- **[Online Lecture Scheduling](https://github.com/KimayaRaut/Online-Lecture-Scheduling-Module)**: A system developed with FastAPI and MongoDB for managing course schedules and instructor assignments, ensuring no scheduling conflicts.
 
 ## 🌱 What I’m Learning
-I am continuously exploring new technologies and best practices to stay at the forefront of backend development and machine learning. Currently, I'm diving into [specific technology or area of interest, e.g., cloud computing, containerization with Docker].
+I am continuously exploring new technologies and best practices to stay at the forefront of backend development and machine learning. Currently, I'm diving into Node.js.
 
 ## 🌟 Let’s Connect
 Feel free to explore my repositories and projects. If you have any questions, collaboration ideas, or just want to connect, don’t hesitate to reach out!
