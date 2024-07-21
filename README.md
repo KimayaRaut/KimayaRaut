@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="450" height="280" src="https://media.tenor.com/X3jJ_r78JlcAAAAM/bobs-burger-tina-belcher.gif">
+  <img width="450" height="280" src="https://octodex.github.com/images/NUX_Octodex.gif">
 </p>
 
 # Hi there, I'm Kimaya Raut! 👋
