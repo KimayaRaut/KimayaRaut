@@ -2,7 +2,7 @@
   <img width="450" height="280" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 </p>
 
-#                                                                        Hi there, I'm Kimaya Raut! 👋
+# Hi there, I'm Kimaya Raut! 👋
 Welcome to my GitHub profile! I'm a passionate backend developer with a solid foundation in computer engineering and a year of practical experience in building scalable and efficient applications. I enjoy working in dynamic environments where creativity and technical expertise intersect to solve complex problems.
 
 ## 💻 What I Do
@@ -33,5 +33,6 @@ I am continuously exploring new technologies and best practices to stay at the f
 Feel free to explore my repositories and projects. If you have any questions, collaboration ideas, or just want to connect, don’t hesitate to reach out!
 
 <a href="https://www.linkedin.com/in/kimaya-raut-6b64281b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:karaut0403@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 Thank you for visiting my GitHub profile! 🎉
