@@ -35,5 +35,65 @@ Feel free to explore my repositories and projects. If you have any questions, co
 
 <a href="https://www.linkedin.com/in/kimaya-raut-6b64281b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
+## 🤖 Chat with Bot
+
+<div id="chatbox">
+  <div id="chat-output"></div>
+  <input type="text" id="chat-input" placeholder="Ask me anything...">
+  <button onclick="getBotResponse()">Send</button>
+</div>
+
+<script>
+  function getBotResponse() {
+    var input = document.getElementById("chat-input").value.toLowerCase();
+    var output = document.getElementById("chat-output");
+    var response = "";
+
+    if (input.includes("hello")) {
+      response = "Hi there! How can I help you today?";
+    } else if (input.includes("your name")) {
+      response = "I am a friendly bot created by Kimaya Raut!";
+    } else if (input.includes("help")) {
+      response = "Sure! Ask me anything about Kimaya's projects, skills, or experience.";
+    } else {
+      response = "I'm sorry, I don't understand that. Can you try asking something else?";
+    }
+
+    var newDiv = document.createElement("div");
+    newDiv.textContent = "You: " + input;
+    output.appendChild(newDiv);
+
+    var newDivResponse = document.createElement("div");
+    newDivResponse.textContent = "Bot: " + response;
+    output.appendChild(newDivResponse);
+
+    document.getElementById("chat-input").value = "";
+  }
+</script>
+
+<style>
+  #chatbox {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 300px;
+    margin-top: 20px;
+  }
+
+  #chat-output {
+    max-height: 200px;
+    overflow-y: auto;
+    margin-bottom: 10px;
+  }
+
+  #chat-input {
+    width: calc(100% - 60px);
+    padding: 5px;
+  }
+
+  button {
+    width: 50px;
+    padding: 5px;
+  }
+</style>
 
 Thank you for visiting my GitHub profile! 🎉
