@@ -30,7 +30,11 @@ I am continuously exploring new technologies and best practices to stay at the f
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+
 ## 🌟 Let’s Connect
 Feel free to explore my repositories and projects. If you have any questions, collaboration ideas, or just want to connect, don’t hesitate to reach out!
+
+<a href="https://www.linkedin.com/in/kimaya-raut-6b64281b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 
 Thank you for visiting my GitHub profile! 🎉
