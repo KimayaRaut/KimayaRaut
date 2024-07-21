@@ -1,6 +1,7 @@
 <p align="center">
   <img width="460" height="300" src="https://media.tenor.com/X3jJ_r78JlcAAAAM/bobs-burger-tina-belcher.gif">
 </p>
+
 # Hi there, I'm Kimaya Raut! 👋
 
 Welcome to my GitHub profile! I'm a passionate backend developer with a solid foundation in computer engineering and a year of practical experience in building scalable and efficient applications. I enjoy working in dynamic environments where creativity and technical expertise intersect to solve complex problems.
