@@ -1,7 +1,8 @@
-<p align="left">
+<p align="center">
   <img width="450" height="280" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 </p>
-# Hi there, I'm Kimaya Raut! 👋
+
+#                                                                        Hi there, I'm Kimaya Raut! 👋
 Welcome to my GitHub profile! I'm a passionate backend developer with a solid foundation in computer engineering and a year of practical experience in building scalable and efficient applications. I enjoy working in dynamic environments where creativity and technical expertise intersect to solve complex problems.
 
 ## 💻 What I Do
