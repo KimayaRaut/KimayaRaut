@@ -39,7 +39,7 @@ Thank you for visiting my GitHub profile! 🎉
 
 ## 🕹️ Fun Game: Rock, Paper, Scissors
 
-```html
+<html>
 <!DOCTYPE html>
 <html lang="en">
 <head>
